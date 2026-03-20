@@ -2,6 +2,7 @@
 A responsive navigation bar built with HTML and CSS flexbox. This project demonstrates how to use Flexbox for layout , alignment and spacing in modern web design.
 
 Live Demo
+[View Project here](https://nav-flex.netlify.app)
 
 features
 -Responsive design using Flexbox
